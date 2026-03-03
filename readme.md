@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:0c1929,40:102a40,60:1a4468,80:2980b9,100:5dade2&height=320&section=header&text=𝗡𝗔𝗦𝗕𝗟𝗢𝗥&fontSize=88&fontColor=5dade2&animation=fadeIn&fontAlignY=25&desc=%E2%9C%8F%EF%B8%8F%20Drawing%20%C2%B7%20%E2%9A%99%EF%B8%8F%20Engineering%20%C2%B7%20%F0%9F%A4%96%20Robotics%20%C2%B7%20%F0%9F%A7%8A%203D%20%C2%B7%20%F0%9F%8E%A8%20Design%20%C2%B7%20%F0%9F%8E%B5%20Music&descAlignY=48&descSize=15&descColor=85c1e9" width="100%"/>
