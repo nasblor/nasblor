@@ -22,6 +22,8 @@
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"/> &nbsp; 𝗤𝗨𝗘𝗠 𝗦𝗢𝗨 𝗘𝗨 &nbsp; <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"/>
@@ -60,6 +62,8 @@ mindmap
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="28"/> &nbsp; 𝗥𝗘𝗗𝗘𝗦 &nbsp; <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="28"/>
@@ -90,6 +94,8 @@ mindmap
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/> &nbsp; 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 &nbsp; <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/>
@@ -103,7 +109,7 @@ graph TB
         direction LR
         A1[Arduino] ~~~ A2[Raspberry Pi] ~~~ A3[ROS 2] ~~~ A4[OpenCV]
         A5[C] ~~~ A6[C++] ~~~ A7[Python] ~~~ A8[MicroPython]
-        A9[Sensors] ~~~ A10[Actuators] ~~~ A11[MQTT] ~~~ A12[PlatformIO]
+        A9[Sensors & Actuators] ~~~ A10[PCB Design] ~~~ A11[MQTT] ~~~ A12[PlatformIO]
     end
     subgraph MOD["🧊 3D MODELING · CAD · RENDERING"]
         direction LR
@@ -115,10 +121,10 @@ graph TB
         C1[Figma] ~~~ C2[Illustrator] ~~~ C3[Photoshop] ~~~ C4[After Effects]
         C5[Procreate] ~~~ C6[Clip Studio Paint] ~~~ C7[InDesign] ~~~ C8[Canva]
     end
-    subgraph TOOLS["🔧 TOOLS · FABRICATION"]
+    subgraph TOOLS["🔧 TOOLS · ENVIRONMENT"]
         direction LR
-        D1[Git] ~~~ D2[Linux] ~~~ D3[VS Code] ~~~ D4[KiCad]
-        D5[Fritzing] ~~~ D6[3D Printing] ~~~ D7[Laser Cutting] ~~~ D8[CNC]
+        D1[Git] ~~~ D2[GitHub] ~~~ D3[Linux] ~~~ D4[VS Code]
+        D5[KiCad] ~~~ D6[Fritzing] ~~~ D7[3D Printing] ~~~ D8[Laser Cutting]
     end
 
     ROB -.-> TOOLS
@@ -133,13 +139,19 @@ graph TB
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python,linux,git,bash&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python,ros,opencv,linux&theme=dark&perline=8"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=blender,figma,illustrator,photoshop,aftereffects,vscode&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=blender,figma,illustrator,photoshop,aftereffects,autocad&theme=dark&perline=6"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark&perline=4"/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -157,7 +169,7 @@ flowchart LR
     D -->|Mechanics| F["🏗️ FABRICATE"]:::s2
     E --> G["🤖 ROBOT"]:::s3
     F --> G
-    G -.->|Test & Iterate| A
+    G -->|Test & Iterate| A
 
     classDef s1 fill:#0c1929,stroke:#5dade2,color:#d6eaf8,stroke-width:2px
     classDef s2 fill:#0c1929,stroke:#2980b9,color:#d6eaf8,stroke-width:2px
@@ -168,21 +180,23 @@ flowchart LR
 
 ```python
 class Nasblor:
-    crafts   = ["Drawing", "Engineering", "Robotics", "3D Modeling", "Design"]
+    crafts   = ["Drawing", "Engineering", "Robotics", "3D", "Design"]
     passion  = "Music 🎵"
     motto    = "Precision in engineering, soul in design"
     process  = "Sketch → 3D → Engineer → Build → Repeat"
 
     def create(self):
         while self.is_inspired:
-            sketch  = self.draw()
-            model   = self.model_3d(sketch)
-            circuit = self.design_electronics(model)
-            robot   = self.assemble(model, circuit)
+            sketch    = self.draw()
+            model     = self.model_3d(sketch)
+            circuit   = self.design_electronics(model)
+            robot     = self.assemble(model, circuit)
             self.bring_to_life(robot)
 ```
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -203,6 +217,8 @@ class Nasblor:
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/> &nbsp; 𝗙𝗢𝗖𝗨𝗦 &nbsp; <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/>
@@ -220,6 +236,8 @@ pie title 🧠 Energy Distribution
 ```
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -241,10 +259,6 @@ pie title 🧠 Energy Distribution
 
 <br><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> &nbsp; <b>Let's connect and create something extraordinary together!</b> &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/◆-Precision_in_engineering,_soul_in_design.-5dade2?style=for-the-badge&labelColor=0c1929"/>
 
 <br><br>
@@ -252,4 +266,3 @@ pie title 🧠 Energy Distribution
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5dade2,20:2980b9,40:1a4468,60:102a40,80:0c1929,100:0a0e1a&height=120&section=footer&text=Where%20machines%20meet%20art%20%E2%97%86%20Built%20with%20precision&fontSize=13&fontColor=85c1e9&fontAlignY=62" width="100%"/>
 
 </div>
-```
