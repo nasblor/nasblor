@@ -1,9 +1,12 @@
+
+
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:0c1929,40:102a40,60:1a4468,80:2980b9,100:5dade2&height=320&section=header&text=𝗡𝗔𝗦𝗕𝗟𝗢𝗥&fontSize=88&fontColor=5dade2&animation=fadeIn&fontAlignY=25&desc=%E2%97%86%20Engineering%20%C2%B7%20Robotics%20%C2%B7%20Design%20%C2%B7%203D%20%C2%B7%20Music%20%E2%97%86&descAlignY=48&descSize=17&descColor=85c1e9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:0c1929,40:102a40,60:1a4468,80:2980b9,100:5dade2&height=320&section=header&text=𝗡𝗔𝗦𝗕𝗟𝗢𝗥&fontSize=88&fontColor=5dade2&animation=fadeIn&fontAlignY=25&desc=%E2%9C%8F%EF%B8%8F%20Drawing%20%C2%B7%20%E2%9A%99%EF%B8%8F%20Engineering%20%C2%B7%20%F0%9F%A4%96%20Robotics%20%C2%B7%20%F0%9F%A7%8A%203D%20%C2%B7%20%F0%9F%8E%A8%20Design%20%C2%B7%20%F0%9F%8E%B5%20Music&descAlignY=48&descSize=15&descColor=85c1e9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=2800&pause=1000&color=5DADE2&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%F0%9F%94%A7+Mechanical+Engineer+%C2%B7+Robotics+Specialist;%F0%9F%8E%A8+3D+Artist+%C2%B7+Designer+%C2%B7+Illustrator;%F0%9F%8E%B5+Music+Enthusiast+%C2%B7+Creative+Technologist" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=2800&pause=1000&color=5DADE2&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%E2%97%86+Engineer+%C2%B7+Robotics+Specialist+%C2%B7+3D+Artist;%E2%97%86+Illustrator+%C2%B7+Designer+%C2%B7+Music+Enthusiast;%E2%97%86+Turning+ideas+into+machines+and+art" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -15,16 +18,12 @@
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/📍-Brazil_🇧🇷-5dade2?style=for-the-badge&labelColor=0c1929"/></td>
-<td><img src="https://img.shields.io/badge/🤖-Robotics_Engineer-2980b9?style=for-the-badge&labelColor=0c1929"/></td>
-<td><img src="https://img.shields.io/badge/🎨-Creative_Maker-85c1e9?style=for-the-badge&labelColor=0c1929"/></td>
+<td><img src="https://img.shields.io/badge/🤖-Robotics_&_Engineering-2980b9?style=for-the-badge&labelColor=0c1929"/></td>
+<td><img src="https://img.shields.io/badge/✏️-Drawing_&_3D_&_Design-85c1e9?style=for-the-badge&labelColor=0c1929"/></td>
 </tr>
 </table>
 
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -38,7 +37,7 @@ mindmap
   root((🛠️ NASBLOR))
     ✏️ DRAWING
       🖊️ Technical Illustration
-      📏 Sketching & Concept
+      📏 Sketching & Concepts
       🖼️ Digital Art
       🎨 Visual Storytelling
     ⚙️ ENGINEERING
@@ -46,32 +45,23 @@ mindmap
       🔌 Electronics & IoT
       🏗️ Mechanical Design
       🧮 Control Systems
-    🧊 3D & CAD
-      💎 3D Modeling
-      🎞️ Rendering
-      📐 Parametric Design
+    🧊 3D MODELING
+      💎 Hard Surface & Organic
+      🎞️ Rendering & Animation
+      📐 Parametric CAD
       🖨️ 3D Printing
     🎨 DESIGN
-      🖌️ UI & UX
-      🎯 Product Design
+      🖌️ Visual & Product Design
+      🎯 Brand Identity
       📊 Infographics
-      💡 Brand Identity
-    💻 DEVELOPMENT
-      🌐 Full Stack Web
-      📱 Apps & Tools
-      🛠️ Automation
-      🔗 API Integration
+      💡 Concept Design
     🎵 MUSIC
-      🎧 Enthusiast
+      🎧 Enthusiast & Listener
       🎹 Collaborator
-      🎶 Creative Fuel
+      🎶 Creative Inspiration
 ```
 
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -103,10 +93,6 @@ mindmap
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/> &nbsp; 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 &nbsp; <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/>
@@ -116,61 +102,47 @@ mindmap
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#5dade2','primaryTextColor':'#d6eaf8','primaryBorderColor':'#5dade2','lineColor':'#2980b9','secondaryColor':'#0c1929','tertiaryColor':'#0a0e1a'}}}%%
 graph TB
-    subgraph ROB["🤖 ROBOTICS · EMBEDDED"]
+    subgraph ROB["🤖 ROBOTICS · EMBEDDED · ELECTRONICS"]
         direction LR
         A1[Arduino] ~~~ A2[Raspberry Pi] ~~~ A3[ROS 2] ~~~ A4[OpenCV]
-        A5[C / C++] ~~~ A6[Sensors] ~~~ A7[Actuators] ~~~ A8[PCB]
+        A5[C] ~~~ A6[C++] ~~~ A7[Python] ~~~ A8[MicroPython]
+        A9[Sensors] ~~~ A10[Actuators] ~~~ A11[MQTT] ~~~ A12[PlatformIO]
     end
-    subgraph MOD["🧊 3D · CAD · RENDERING"]
+    subgraph MOD["🧊 3D MODELING · CAD · RENDERING"]
         direction LR
         B1[Blender] ~~~ B2[Fusion 360] ~~~ B3[AutoCAD] ~~~ B4[SolidWorks]
-        B5[KeyShot] ~~~ B6[ZBrush] ~~~ B7[Substance 3D] ~~~ B8[Three.js]
+        B5[KeyShot] ~~~ B6[ZBrush] ~~~ B7[Substance 3D] ~~~ B8[SketchUp]
     end
-    subgraph DES["🎨 DESIGN · ILLUSTRATION"]
+    subgraph DES["🎨 DESIGN · ILLUSTRATION · DRAWING"]
         direction LR
         C1[Figma] ~~~ C2[Illustrator] ~~~ C3[Photoshop] ~~~ C4[After Effects]
-        C5[Procreate] ~~~ C6[Clip Studio] ~~~ C7[InDesign] ~~~ C8[Canva]
+        C5[Procreate] ~~~ C6[Clip Studio Paint] ~~~ C7[InDesign] ~~~ C8[Canva]
     end
-    subgraph DEV["💻 FULL STACK"]
+    subgraph TOOLS["🔧 TOOLS · FABRICATION"]
         direction LR
-        D1[React] ~~~ D2[Next.js] ~~~ D3[TypeScript] ~~~ D4[Node.js]
-        D5[Python] ~~~ D6[C++] ~~~ D7[Rust] ~~~ D8[GraphQL]
-    end
-    subgraph INF["☁️ INFRA · TOOLS"]
-        direction LR
-        E1[Docker] ~~~ E2[AWS] ~~~ E3[Linux] ~~~ E4[Git]
-        E5[MongoDB] ~~~ E6[PostgreSQL] ~~~ E7[Firebase] ~~~ E8[Vercel]
+        D1[Git] ~~~ D2[Linux] ~~~ D3[VS Code] ~~~ D4[KiCad]
+        D5[Fritzing] ~~~ D6[3D Printing] ~~~ D7[Laser Cutting] ~~~ D8[CNC]
     end
 
-    ROB -.-> DEV
+    ROB -.-> TOOLS
     MOD -.-> DES
-    DES -.-> DEV
-    DEV -.-> INF
+    DES -.-> ROB
 
     style ROB fill:#0a0e1a,stroke:#5dade2,stroke-width:2px,color:#5dade2
     style MOD fill:#0a0e1a,stroke:#3498db,stroke-width:2px,color:#3498db
     style DES fill:#0a0e1a,stroke:#2980b9,stroke-width:2px,color:#85c1e9
-    style DEV fill:#0a0e1a,stroke:#1a6fa0,stroke-width:2px,color:#85c1e9
-    style INF fill:#0a0e1a,stroke:#1a4468,stroke-width:2px,color:#aed6f1
+    style TOOLS fill:#0a0e1a,stroke:#1a4468,stroke-width:2px,color:#aed6f1
 ```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python,rust,react,nextjs,typescript,nodejs&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python,linux,git,bash&theme=dark&perline=8"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=blender,figma,illustrator,photoshop,aftereffects,threejs,tailwind,graphql,docker,aws&theme=dark&perline=10"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,mongodb,postgres,firebase,vercel,electron&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=blender,figma,illustrator,photoshop,aftereffects,vscode&theme=dark&perline=6"/>
 
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -181,43 +153,39 @@ graph TB
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#5dade2','primaryTextColor':'#0a0e1a','lineColor':'#2980b9','secondaryColor':'#0c1929','tertiaryColor':'#0a0e1a'}}}%%
 flowchart LR
-    A["✏️ SKETCH"]:::blue --> B["📐 DESIGN"]:::blue
-    B --> C["🧊 3D MODEL"]:::cyan
-    C --> D{"⚙️ ENGINEER"}:::light
-    D -->|Software| E["💻 CODE"]:::cyan
-    D -->|Hardware| F["🤖 BUILD"]:::cyan
-    E --> G["🚀 LAUNCH"]:::light
+    A["✏️ SKETCH"]:::s1 --> B["📐 DESIGN"]:::s1
+    B --> C["🧊 3D MODEL"]:::s2
+    C --> D{"⚙️ ENGINEER"}:::s3
+    D -->|Electronics| E["🔌 CIRCUIT"]:::s2
+    D -->|Mechanics| F["🏗️ FABRICATE"]:::s2
+    E --> G["🤖 ROBOT"]:::s3
     F --> G
-    G -.->|Evolve| A
+    G -.->|Test & Iterate| A
 
-    classDef blue fill:#0c1929,stroke:#2980b9,color:#d6eaf8,stroke-width:2px
-    classDef cyan fill:#0c1929,stroke:#5dade2,color:#d6eaf8,stroke-width:2px
-    classDef light fill:#1a4468,stroke:#85c1e9,color:#d6eaf8,stroke-width:2px
+    classDef s1 fill:#0c1929,stroke:#5dade2,color:#d6eaf8,stroke-width:2px
+    classDef s2 fill:#0c1929,stroke:#2980b9,color:#d6eaf8,stroke-width:2px
+    classDef s3 fill:#1a4468,stroke:#85c1e9,color:#d6eaf8,stroke-width:2px
 ```
 
 <br>
 
-```js
-const nasblor = {
-  crafts: ["Drawing", "Engineering", "Robotics", "3D", "Design"],
-  passion: "Music",
-  philosophy: "Precision in engineering, soul in design",
-  process: "Sketch → Model → Engineer → Build → Repeat",
-};
+```python
+class Nasblor:
+    crafts   = ["Drawing", "Engineering", "Robotics", "3D Modeling", "Design"]
+    passion  = "Music 🎵"
+    motto    = "Precision in engineering, soul in design"
+    process  = "Sketch → 3D → Engineer → Build → Repeat"
 
-while (nasblor.isCreating) {
-  const idea    = await nasblor.sketch();
-  const model   = await nasblor.render3D(idea);
-  const machine = await nasblor.engineer(model);
-  await nasblor.deploy(machine);
-}
+    def create(self):
+        while self.is_inspired:
+            sketch  = self.draw()
+            model   = self.model_3d(sketch)
+            circuit = self.design_electronics(model)
+            robot   = self.assemble(model, circuit)
+            self.bring_to_life(robot)
 ```
 
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -238,10 +206,6 @@ while (nasblor.isCreating) {
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/> &nbsp; 𝗙𝗢𝗖𝗨𝗦 &nbsp; <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/>
@@ -252,20 +216,17 @@ while (nasblor.isCreating) {
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a4468','primaryTextColor':'#d6eaf8','lineColor':'#5dade2'}}}%%
 pie title 🧠 Energy Distribution
     "⚙️ Engineering & Robotics" : 30
-    "✏️ Drawing & Illustration" : 20
+    "✏️ Drawing & Illustration" : 25
     "🧊 3D Modeling & CAD" : 20
-    "🎨 Design (UI · UX · Product)" : 15
-    "💻 Full Stack Development" : 10
-    "🎵 Music Collaboration" : 5
+    "🎨 Design & Visual" : 15
+    "🎵 Music & Collaboration" : 10
 ```
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
+
+<br>
 
 <img src="https://raw.githubusercontent.com/nasblor/nasblor/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -283,6 +244,10 @@ pie title 🧠 Energy Distribution
 
 <br><br>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> &nbsp; <b>Let's connect and create something extraordinary together!</b> &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/◆-Precision_in_engineering,_soul_in_design.-5dade2?style=for-the-badge&labelColor=0c1929"/>
 
 <br><br>
@@ -290,3 +255,4 @@ pie title 🧠 Energy Distribution
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5dade2,20:2980b9,40:1a4468,60:102a40,80:0c1929,100:0a0e1a&height=120&section=footer&text=Where%20machines%20meet%20art%20%E2%97%86%20Built%20with%20precision&fontSize=13&fontColor=85c1e9&fontAlignY=62" width="100%"/>
 
 </div>
+```
