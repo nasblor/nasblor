@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,50:007AFF,100:5AC8FA&height=250&section=header&text=N%20A%20S%20B%20L%20O%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Robotics%20Engineering%20%7C%203D%20Design%20%7C%20Digital%20Art%20%7C%20Music&descAlignY=60&descSize=18&descColor=e5f0ff" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:007AFF,100:5AC8FA&height=280&section=header&text=N%20A%20S%20B%20L%20O%20R&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=⟐%20Robotics%20Engineering%20⟐%203D%20Design%20⟐%20Digital%20Art%20⟐%20Music%20⟐&descAlignY=58&descSize=16&descColor=e5f0ff" width="100%"/>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display,-apple-system,BlinkMacSystemFont&weight=600&size=20&duration=2500&pause=1000&color=5AC8FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=⚙️+Robotics+%26+Automation+Engineer;🎨+3D+Modeling+%26+Digital+Drawing;🎵+Music+Enthusiast+%26+Collaborator;🚀+Designing+the+physical+future" alt="Typing SVG"/>
 </a>
-
-<img src="https://img.shields.io/badge/System-Online-5AC8FA?style=flat-square&labelColor=003366&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Hardware_%26_Design-007AFF?style=flat-square&labelColor=003366&logo=cpu&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/System-Online-5AC8FA?style=flat-square&labelColor=001122&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Hardware_%26_Design-007AFF?style=flat-square&labelColor=001122&logo=cpu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe-Creative_Logic-003366?style=flat-square&labelColor=001122&logo=modx&logoColor=white"/>
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 
 ## ◈ 𝗘𝗫𝗣𝗘𝗥𝗧𝗜𝗦𝗘 ⟐ 𝗔𝗥𝗘𝗔𝗦 ◈
 
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#007AFF','primaryTextColor':'#ffffff','primaryBorderColor':'#003366','lineColor':'#5AC8FA','secondaryColor':'#002244','tertiaryColor':'#001122','fontSize':'14px','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#007AFF','primaryTextColor':'#ffffff','primaryBorderColor':'#5AC8FA','lineColor':'#5AC8FA','secondaryColor':'#002244','tertiaryColor':'#001122','fontSize':'14px','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
 mindmap
   root((NASBLOR))
     ⚙️ ENGINEERING
@@ -38,12 +38,23 @@ mindmap
       Systems Logic
 
 <br>
-
 <img src="https://img.shields.io/badge/Robotics-Engineering-007AFF?style=for-the-badge&labelColor=001122"/>
 <img src="https://img.shields.io/badge/3D-Modeling_%26_CAD-5AC8FA?style=for-the-badge&labelColor=001122"/>
 <img src="https://img.shields.io/badge/Art-Digital_Drawing-003366?style=for-the-badge&labelColor=001122"/>
 <img src="https://img.shields.io/badge/Audio-Music_Collaboration-0055A4?style=for-the-badge&labelColor=001122"/>
+</div>
 
+<br>
+
+<div align="center">
+
+## ◈ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 ◈
+
+<br>
+<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/Instagram-@nasblor-007AFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=001122"/></a>
+<a href="https://github.com/nasblor"><img src="https://img.shields.io/badge/GitHub-Profile-5AC8FA?style=for-the-badge&logo=github&logoColor=white&labelColor=001122"/></a>
+<a href="https://behance.net/nasblor"><img src="https://img.shields.io/badge/Behance-Art_%26_3D-003366?style=for-the-badge&logo=behance&logoColor=white&labelColor=001122"/></a>
+<a href="https://soundcloud.com/nasblor"><img src="https://img.shields.io/badge/SoundCloud-Audio_Collab-0055A4?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=001122"/></a>
 </div>
 
 <br>
@@ -54,18 +65,18 @@ mindmap
 
 <br>
 
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#007AFF','primaryTextColor':'#fff','primaryBorderColor':'#5AC8FA','lineColor':'#5AC8FA','secondaryColor':'#001122','tertiaryColor':'#002244','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#001122','primaryTextColor':'#fff','primaryBorderColor':'#007AFF','lineColor':'#5AC8FA','secondaryColor':'#001122','tertiaryColor':'#002244','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
 graph TD
     subgraph HARDWARE ["⚙️ HARDWARE & ROBOTICS"]
         direction LR
         C[C / C++] --- PY[Python]
         ARD[Arduino] --- RPI[Raspberry Pi]
-        ROS[ROS / Automation] --- KIN[Kinematics]
+        ROS[Automation] --- KIN[Kinematics]
     end
     subgraph DESIGN ["🎨 3D & DESIGN"]
         direction LR
-        BL[Blender 3D] --- CAD[CAD / SolidWorks]
-        DR[Digital Art] --- UI[Figma UI/UX]
+        BL[Blender 3D] --- CAD[CAD Systems]
+        DR[Digital Art] --- UI[Figma]
     end
     subgraph AUDIO ["🎵 AUDIO & COLLAB"]
         direction LR
@@ -80,9 +91,64 @@ graph TD
     style AUDIO fill:#001122,stroke:#003366,stroke-width:2px,color:#fff,rx:10,ry:10
 
 <br>
-
-### 🛠️ Core Tools & Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,blender,figma,unity,unreal,ps,pr&theme=dark&perline=12"/>
+</div>
+
+<br>
+
+<div align="center">
+
+## ◈ 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪 ⟐ 𝗣𝗛𝗜𝗟𝗢𝗦𝗢𝗣𝗛𝗬 ◈
+
+<br>
+
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#001122','primaryTextColor':'#ffffff','lineColor':'#5AC8FA','secondaryColor':'#002244','tertiaryColor':'#003366','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
+flowchart LR
+    A["💡 CONCEPT"] -->|Draft| B["📐 3D MODEL"]
+    B -->|Render| C["⚙️ PROTOTYPE"]
+    C -->|C++ / Python| D{"🧠 LOGIC"}
+    D -->|Test| E["🚀 DEPLOYMENT"]
+    D -->|Refine| B
+    E -->|Audio Sync| F["🎵 FINAL PIECE"]
+    
+    style A fill:#003366,stroke:#007AFF,color:#fff,stroke-width:2px,rx:8,ry:8
+    style B fill:#004488,stroke:#5AC8FA,color:#fff,stroke-width:2px,rx:8,ry:8
+    style C fill:#0055A4,stroke:#007AFF,color:#fff,stroke-width:2px,rx:8,ry:8
+    style D fill:#007AFF,stroke:#5AC8FA,color:#fff,stroke-width:2px,rx:8,ry:8
+    style E fill:#5AC8FA,stroke:#007AFF,color:#000,stroke-width:2px,rx:8,ry:8
+    style F fill:#E5F0FF,stroke:#5AC8FA,color:#000,stroke-width:2px,rx:8,ry:8
+
+<br>
+<img src="https://img.shields.io/badge/✦-Design._Print._Program._Play.-007AFF?style=for-the-badge&labelColor=001122"/>
+<br>
+
+```cpp
+#include <Engineering.h>
+#include <Creativity.h>
+
+class Nasblor : public MultidimensionalCreator {
+private:
+    float inspirationLevel;
+    bool isPoweredOn;
+
+public:
+    Nasblor() {
+        inspirationLevel = 100.0;
+        isPoweredOn = true;
+    }
+
+    void initiateSequence() {
+        while (isPoweredOn) {
+            Hardware.assemble();
+            Software.compileLogic();
+            Design.render3D();
+            Audio.mixTrack();
+            
+            System.pushLimits();
+        }
+    }
+};
+```
 
 </div>
 
@@ -90,22 +156,7 @@ graph TD
 
 <div align="center">
 
-## ◈ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 ◈
-
-<br>
-
-<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/Instagram-@nasblor-007AFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=001122"/></a>
-<a href="https://github.com/nasblor"><img src="https://img.shields.io/badge/GitHub-Profile-5AC8FA?style=for-the-badge&logo=github&logoColor=white&labelColor=001122"/></a>
-<img src="https://img.shields.io/badge/Music-Collaborator-003366?style=for-the-badge&logo=applemusic&logoColor=white&labelColor=001122"/>
-<img src="https://img.shields.io/badge/Design-3D_%26_Art-0055A4?style=for-the-badge&logo=artstation&logoColor=white&labelColor=001122"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ◈ 𝗚𝗜𝗧𝗛𝗨𝗕 ⟐ 𝗦𝗧𝗔𝗧𝗦 ◈
+## ◈ 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 ⟐ 𝗦𝗧𝗔𝗧𝗦 ◈
 
 <br>
 
@@ -114,5 +165,16 @@ graph TD
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:003366,100:001122&height=80&section=footer&text=Bridging%20the%20gap%20between%20imagination,%20hardware,%20and%20sound.&fontSize=16&fontColor=5AC8FA&fontAlignY=50" width="100%"/>
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#007AFF','primaryTextColor':'#fff','lineColor':'#5AC8FA','fontFamily':'-apple-system, BlinkMacSystemFont, sans-serif'}}}%%
+pie title 🧠 Creative Energy Distribution
+    "⚙️ Robotics & Hardware" : 35
+    "🎨 3D Design & Art" : 30
+    "💻 Systems Programming" : 20
+    "🎵 Music & Audio" : 15
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nasblor&color=007AFF&style=for-the-badge&label=SYSTEM+VIEWS&labelColor=001122"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:003366,100:001122&height=80&section=footer&text=Bridging%20the%20gap%20between%20imagination,%20hardware,%20and%20sound.&fontSize=14&fontColor=5AC8FA&fontAlignY=50" width="100%"/>
 </div>
