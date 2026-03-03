@@ -1,81 +1,55 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=&fontSize=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4FC3F7&height=200&section=header&text=NASBLOR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%E2%9C%A6%20Designer%20%E2%9C%A6%20Creator&descSize=16&descAlignY=58)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="120"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Robotics+Engineer+%7C+3D+Designer;Music+Enthusiast+%7C+Creative+Mind;Building+Tomorrow's+Technology" alt="Typing"/>
 
-# ✦ NASBLOR ✦
+<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://twitter.com/nasblor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://behance.net/nasblor"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://soundcloud.com/nasblor"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/nasblor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Creative+Engineer+%E2%9C%A6+3D+Designer;Robotics+Enthusiast+%E2%9C%A6+Music+Lover;Turning+Imagination+Into+Reality" alt="Typing"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550">
-
-<br>
-
-<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/nasblor-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/nasblor"><img src="https://img.shields.io/badge/nasblor-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://behance.net/nasblor"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://soundcloud.com/nasblor"><img src="https://img.shields.io/badge/Music-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480">
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
-
-## ◈ About
-
-```yaml
-name: Nasblor
-role: Engineer & Creative Designer
-location: Brazil 🇧🇷
-focus: Robotics × 3D × Music
-status: Creating something amazing
-```
-
-◈ Engineering student focused on **robotics** and **automation**
-
-◈ Passionate about **3D modeling** and **technical design**
-
-◈ **Music enthusiast** and creative collaborator
-
-◈ Building the future with **innovative prototypes**
-
-<br clear="both">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## ◈ Tech Arsenal
-
 <div align="center">
 
-**⚡ ROBOTICS & EMBEDDED**
+## ✦ WHO AM I ✦
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python&theme=dark" height="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
 
-**🎨 DESIGN & 3D TOOLS**
+Engineering student from **Brazil** 🇧🇷 passionate about **robotics**, **3D design** and **music**<br>Creating innovative solutions through technology and art • Turning concepts into reality
 
-<img src="https://skillicons.dev/icons?i=blender,autocad,ps,ai,figma&theme=dark" height="50"/>
-
-**🎵 AUDIO & CREATIVE**
-
-<img src="https://img.shields.io/badge/FL_Studio-FF7900?style=for-the-badge&logo=flstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=abletonlive&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fusion_360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+`🤖 Robotics` · `📐 Engineering` · `🎨 3D Design` · `🎵 Music` · `✏️ Technical Drawing` · `⚙️ Prototyping`
 
 </div>
 
-## ◈ Expertise
+<div align="center">
+
+## ✦ TECH STACK ✦
+
+**⚡ Robotics & Hardware**<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+**🎨 Design & 3D Modeling**<br>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Fusion_360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
+
+**🎵 Creative Tools**<br>
+<img src="https://img.shields.io/badge/FL_Studio-FF7900?style=for-the-badge&logo=flstudio&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+</div>
 
 <div align="center">
+
+## ✦ EXPERTISE ✦
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#0f3460', 'pie2': '#16213e', 'pie3': '#1a1a2e', 'pie4': '#4FC3F7', 'pie5': '#533483'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#4FC3F7', 'pie2': '#1a1a2e', 'pie3': '#0D1117', 'pie4': '#00BCD4', 'pie5': '#263238'}}}%%
 pie showData
     title Skills Distribution
     "3D Design & CAD" : 30
-    "Robotics & Electronics" : 28
+    "Robotics" : 28
     "Technical Drawing" : 18
     "Music Production" : 14
     "Prototyping" : 10
@@ -83,47 +57,47 @@ pie showData
 
 </div>
 
-## ◈ Workflow
-
 <div align="center">
 
+## ✦ WORKFLOW ✦
+
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0f3460', 'primaryTextColor': '#fff', 'lineColor': '#4FC3F7'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1a1a2e', 'primaryTextColor': '#fff', 'lineColor': '#4FC3F7'}}}%%
 flowchart LR
-    A[💡 Idea] --> B[✏️ Sketch] --> C[📐 CAD] --> D[🎨 3D] --> E[⚙️ Build] --> F[🤖 Deploy]
-    style A fill:#0f3460,stroke:#4FC3F7,color:#fff
-    style B fill:#16213e,stroke:#4FC3F7,color:#fff
-    style C fill:#1a1a2e,stroke:#4FC3F7,color:#fff
-    style D fill:#16213e,stroke:#4FC3F7,color:#fff
-    style E fill:#0f3460,stroke:#4FC3F7,color:#fff
-    style F fill:#533483,stroke:#4FC3F7,color:#fff
+    A[💡 Concept] --> B[✏️ Sketch] --> C[📐 CAD] --> D[🎨 3D Model] --> E[⚙️ Prototype] --> F[🤖 Build]
+    style A fill:#0D1117,stroke:#4FC3F7,color:#fff
+    style B fill:#1a1a2e,stroke:#4FC3F7,color:#fff
+    style C fill:#263238,stroke:#4FC3F7,color:#fff
+    style D fill:#1a1a2e,stroke:#4FC3F7,color:#fff
+    style E fill:#0D1117,stroke:#4FC3F7,color:#fff
+    style F fill:#4FC3F7,stroke:#fff,color:#0D1117
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="350">
 
 </div>
 
-## ◈ Creative Universe
-
 <div align="center">
 
+## ✦ CREATIVE MAP ✦
+
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#4FC3F7'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#4FC3F7', 'primaryTextColor': '#0D1117'}}}%%
 mindmap
   root((NASBLOR))
-    🔧 Engineering
-      Mechanical
-      Robotics
+    Engineering
+      Mechanical Design
+      Robotics Systems
       Automation
-    🎨 Design
+    Design
       3D Modeling
-      CAD
+      CAD Drawing
       Visualization
-    🎵 Music
+    Music
       Production
       Collaboration
       Sound Design
-    ⚡ Hardware
+    Hardware
       Arduino
       ESP32
       Raspberry Pi
@@ -131,40 +105,24 @@ mindmap
 
 </div>
 
-## ◈ Interests
-
 <div align="center">
 
-`🤖 Robotics` `⚡ Automation` `🎨 3D Art` `📐 Engineering` `🎵 Music` `✏️ Drawing` `🔧 Prototyping` `💡 Innovation`
+## ✦ GITHUB STATS ✦
 
-</div>
-
-## ◈ Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nasblor&show_icons=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF&icon_color=4FC3F7&border_color=1a1a2e&hide_border=false&ring_color=4FC3F7" height="160"/>&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=nasblor&theme=transparent&hide_border=false&border=1a1a2e&stroke=4FC3F7&ring=4FC3F7&fire=FF5500&currStreakNum=FFFFFF&sideNums=4FC3F7&currStreakLabel=4FC3F7&sideLabels=FFFFFF&dates=888888&background=0D1117" height="160"/>
-
-<img src="https://komarev.com/ghpvc/?username=nasblor&style=for-the-badge&color=0f3460&labelColor=1a1a2e"/>
-
-</div>
-
-## ◈ Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">&nbsp;&nbsp;**Let's create something incredible together**&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
-
-<br>
-
-<a href="mailto:nasblor@email.com"><img src="https://img.shields.io/badge/Email_Me-0f3460?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/@nasblor-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nasblor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=nasblor&show_icons=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF&icon_color=4FC3F7&border_color=1a1a2e&hide_border=false" height="150"/>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=nasblor&theme=transparent&hide_border=false&border=1a1a2e&stroke=4FC3F7&ring=4FC3F7&fire=FF5500&currStreakNum=FFFFFF&sideNums=4FC3F7&currStreakLabel=4FC3F7&sideLabels=FFFFFF&dates=888888&background=0D1117" height="150"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+## ✦ LET'S CONNECT ✦
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"/>&nbsp;&nbsp;**Open for collaborations and creative projects**&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"/>
+
+<a href="mailto:nasblor@email.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=4FC3F7"/></a>&nbsp;&nbsp;<a href="https://instagram.com/nasblor"><img src="https://img.shields.io/badge/@nasblor-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=nasblor&style=for-the-badge&color=4FC3F7&labelColor=0D1117"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1a2e,100:0D1117&height=100&section=footer"/>
